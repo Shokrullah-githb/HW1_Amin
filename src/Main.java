@@ -43,6 +43,6 @@ public class Main {
             remaining -= amount;
         }
         // Print the output
-        System.out.println("%.1f\n", totalHappiness);
-    }
+        System.out.printf("%.1f\n", totalHappiness);
+         }
 }
